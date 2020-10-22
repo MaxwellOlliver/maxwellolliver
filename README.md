@@ -1,16 +1,32 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Eu sou o Goku, digo, Maxwell! 😁
 
-<!--
-**MaxwellOlliver/maxwellolliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maxwell, tenho 20 anos, moro na capital de São Paulo e sou estudande de Desenvolvimento de Sistemas na ETEC de Taboão da Serra com o objetivo de me tornar Desenvolvedor web sênior.
 
-Here are some ideas to get you started:
+Possuo experiência como Desenvolvedor web com  React e Node em freelances e em uma empresa de desenvolvimento, onde atuei por 7 meses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## 📚 Habilidades
+
+[![ReactNative badge](https://img.shields.io/badge/-React_Native-329fe3?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
+[![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
+![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Javascript badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
+
+----
+
+## 🍿 Passatempos
+
+🎶 Música
+🎮 Jogos
+👨‍💻 Programar
+
+----
+
+## 📓 Contatos
+
+[![Linkedin Badge](https://img.shields.io/badge/-Maxwell_Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwell-macedo-aa3491191/)](https://www.linkedin.com/in/maxwell-macedo-aa3491191/)
+[![Github Badge](https://img.shields.io/badge/-maxwellolliver-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maxwellolliver)](https://github.com/maxwellolliver)
+[![Gmail Badge](https://img.shields.io/badge/-maxwellmacedo2015@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:maxwellmacedo2015@gmail.com)](mailto:maxwellmacedo2015@gmail.com)

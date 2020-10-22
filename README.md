@@ -25,8 +25,9 @@ Possuo experiência como Desenvolvedor web com  React e Node em freelances e em 
 
 ----
 
-## 📓 Contatos
+## 📙 Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maxwell_Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwell-macedo-aa3491191/)](https://www.linkedin.com/in/maxwell-macedo-aa3491191/)
 [![Github Badge](https://img.shields.io/badge/-maxwellolliver-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maxwellolliver)](https://github.com/maxwellolliver)
 [![Gmail Badge](https://img.shields.io/badge/-maxwellmacedo2015@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:maxwellmacedo2015@gmail.com)](mailto:maxwellmacedo2015@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Maxwell_Olliver-5cbd63?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5511963662339)](https://wa.me/5511963662339)

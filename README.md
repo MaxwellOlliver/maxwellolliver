@@ -8,7 +8,7 @@ Atuei como Desenvolvedor Frontend em uma empresa de desenvolvimento de software 
 
 ----
 
-## 📚 Habilidades
+## 📚 Conhecimentos
 
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-329fe3?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)

@@ -2,7 +2,7 @@
 
 Meu nome é Maxwell, tenho 20 anos, moro na capital de São Paulo e sou estudande de Desenvolvimento de Sistemas na ETEC de Taboão da Serra com o objetivo de me tornar Desenvolvedor web sênior.
 
-Trabalho com a stack de React e Node há 1 ano e meio, utilizando em projetos pessoais e freelances.
+Estudo a stack de React e Node há 1 ano e meio, utilizando em projetos pessoais e freelances.
 
 Atuei como Desenvolvedor Frontend em uma empresa de desenvolvimento de software durante 7 meses.
 

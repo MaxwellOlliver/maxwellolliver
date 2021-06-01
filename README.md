@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi, Eu sou o Goku, digo, Maxwell! 😁
 
-Meu nome é Maxwell, tenho 20 anos, moro na capital de São Paulo e sou estudande de Desenvolvimento de Sistemas na ETEC de Taboão da Serra com o objetivo de me tornar Desenvolvedor web sênior.
+Meu nome é Maxwell, tenho 20 anos, moro na capital de São Paulo e sou formado como técnico de Desenvolvimento de Sistemas na ETEC de Taboão da Serra com o objetivo de me tornar Desenvolvedor web sênior.
 
 Estudo a stack de React e Node há 1 ano e meio, utilizando em projetos pessoais e freelances.
 

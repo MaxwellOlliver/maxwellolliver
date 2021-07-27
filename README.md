@@ -4,7 +4,7 @@ Meu nome é Maxwell, tenho 20 anos, moro na capital de São Paulo e sou formado 
 
 Estudo a stack de React e Node há 1 ano e meio, utilizando em projetos pessoais e freelances.
 
-Atuei como Desenvolvedor Frontend em uma empresa de desenvolvimento de software durante 7 meses.
+Atualmente atuo como Desenvolvedor Frontend na criação de interfaces, priorizando sempre a melhor experiência de usuário.
 
 ----
 

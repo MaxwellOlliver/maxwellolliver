@@ -1,35 +1,15 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi, Eu sou o Goku, digo, Maxwell! 😁
+### Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Meu nome é Maxwell, tenho 23 anos, moro na capital de São Paulo e sou formado como técnico de Desenvolvimento de Sistemas na ETEC de Taboão da Serra com o objetivo de me tornar Desenvolvedor web sênior.
+#### I'm a Full-Stack Developer that loves beautiful interfaces
 
-Trabalho com javascript e seus ambientes há 4 anos em diversos projetos.
+Full-Stack Developer at [Vivo - Telefónica](https://github.com/telefonica)
 
-Atualmente atuo como Desenvolvedor Frontend na criação de interfaces, priorizando sempre a melhor experiência de usuário.
-
-----
-
-## 📚 Conhecimentos
-
-[![ReactNative badge](https://img.shields.io/badge/-React_Native-329fe3?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
+- You'll see me using: [![ReactNative badge](https://img.shields.io/badge/-React_Native-329fe3?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
-![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Javascript badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Typescript badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Flutter badge](https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter&logoColor=blue)
 
-----
-
-## 🍿 Passatempos
-
-🎶 Música
-🎮 Jogos
-👨‍💻 Programar
-
-----
-
-## 📙 Contatos
-
-[![Linkedin Badge](https://img.shields.io/badge/-Maxwell_Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwell-macedo-aa3491191/)](https://linkedin.com/in/maxwell-macedo)
+- Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Maxwell_Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwell-macedo-aa3491191/)](https://linkedin.com/in/maxwell-macedo)
 [![Github Badge](https://img.shields.io/badge/-maxwellolliver-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maxwellolliver)](https://github.com/maxwellolliver)
-[![Gmail Badge](https://img.shields.io/badge/-contato@moondev.com.br-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:maxwellmacedo2015@gmail.com)](mailto:contato@moondev.com.br)
-[![Whatsapp Badge](https://img.shields.io/badge/-Maxwell_Olliver-5cbd63?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5511963662339)](https://wa.me/5511963662339)
+[![Gmail Badge](https://img.shields.io/badge/-maxwellmacedo2015@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:maxwellmacedo2015@gmail.com)](maxwellmacedo2015@gmail.com)

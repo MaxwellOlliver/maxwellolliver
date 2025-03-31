@@ -1,6 +1,6 @@
 ### Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-#### I'm a Full-Stack Developer that loves beautiful interfaces
+#### I'm a Full-Stack Developer who loves beautiful interfaces
 
 Full-Stack Developer at [Vivo - Telefónica](https://github.com/telefonica)
 
